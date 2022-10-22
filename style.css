@@ -1,0 +1,64 @@
+*{
+	margin: 0%;
+}
+.navigation{
+	padding: 1.2%;
+}
+.navigation img{
+	vertical-align: middle;
+}
+.navigation a{
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	color: black;
+	margin-left: 5%;
+	font-size: 16px;
+}
+.logo{
+	margin: 0% 8% 0% 3%;
+}
+#signin{
+	margin-left: 10%;
+	background-color: #00baf2;
+	color: white;
+	padding: 0.5%;
+	border-radius: 25px;
+	text-align: center;
+}
+.msg{
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	background-color: #F5F5F5;
+	padding: 0.8%;
+	font-size: 15px;
+}
+.sec-two{
+	font-family: 'Poppins', sans-serif;
+	display: flex;
+	justify-content: space-between;
+	margin: 5% 0% 5% 10%;
+}
+.India{
+	font-size: 53px;
+	margin-top: 8%;
+}
+.Recharge{
+	font-size: 19px;
+	margin:2% 0% 10% 0%;
+}
+.download-app{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	padding: 2%;
+	width: 50%;
+	text-align: center;
+	border-radius: 25px;
+}
+.download-app:hover{
+	background-color: white;
+	color: black;
+}
+.icon i{
+	margin-left: 1%;
+}
