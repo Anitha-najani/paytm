@@ -103,7 +103,7 @@
 	justify-content: space-between;
 	background-color: white;
 	padding: 8% 6%;
-	border-radius: 5%;
+	border-radius: 3%;
 }
 .fastest{
 	margin-top: 10%;
@@ -116,4 +116,79 @@
 	font-size: 17px;
 	margin-bottom: 10%;
 }
-
+.sec5div2{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 8% 6%;
+	border-radius: 3%;
+	margin-top: 4%;
+}
+.sec5div3{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 6% 5% 6% 10%;
+	border-radius: 3%;
+	margin-top: 4%;
+}
+.learn{
+	background-color: #0f4a8a;
+	color: white;
+	border-radius: 25px;
+	padding: 2.5%;
+	width: 18%;
+	text-align: center;
+}
+.learn:hover{
+	background-color: deepskyblue;
+	color: white;
+}
+.sec5div4{
+	display: flex;
+	justify-content: space-evenly;
+	font-family: 'Poppins', sans-serif;
+}
+.child2{
+	background-color: white;
+	margin: 4% 4% 0% 0%;
+	padding: 6% 4% 0% 6%;
+	border-radius: 5px;
+}
+.child3{
+	background-color: white;
+	margin: 4% 0% 0% 0%;
+	padding: 10% 4% 0% 6%;
+	border-radius: 5px;
+}
+.unlimited{
+	padding: 3% 0%;
+	font-size: 35px;
+	font-family: 'Poppins', sans-serif;
+}
+.credit{
+	padding: 3% 0%;
+	font-size: 35px;
+	font-family: 'Poppins', sans-serif;
+}
+.div4para{
+	font-size: 20px;
+	padding-bottom: 12%;
+}
+.sec6{
+	display: flex;
+	justify-content: space-between;
+	padding: 10% 13%;
+	font-family: 'Poppins', sans-serif;
+}
+.financial{
+	font-size: 45px;
+	padding-bottom: 10%;
+}
+.sincere{
+	padding: 8% 0%;
+	font-size: 37px;
+}
+.learn{
+	margin-top: 8%;
+}
