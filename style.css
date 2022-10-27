@@ -192,3 +192,82 @@
 .learn{
 	margin-top: 8%;
 }
+.sec7{
+	display: flex;
+	justify-content: space-between;
+	font-family: 'Poppins', sans-serif;
+	padding: 4% 12%;
+}
+.build{
+	font-size: 40px;
+	padding: 4% 0%;
+}
+.sec7para{
+	font-size: 20px;
+}
+.learn{
+	width: 25%;
+}
+.sec8{
+	display: flex;
+	justify-content: space-between;
+	padding: 4% 12%;
+	font-family: 'Poppins', sans-serif;
+}
+.easy{
+	font-size: 40px;
+	padding-top: 5% ;
+}
+.buying{
+	font-size: 18px;
+	padding-top: 3%;
+}
+.learn{
+	width: 20%;
+}
+.sec9{
+	background-color: rgba(239, 239, 239, 0.6);
+	display: flex;
+	justify-content: space-between;
+	padding: 4% 12%;
+	font-family: 'Poppins', sans-serif;
+}
+.get{
+	font-size: 36px;
+	padding-top: 5%;
+}
+.offer{
+	font-size: 18px;
+	padding-top: 3%;
+}
+.sec10{
+	background-color: white;
+	padding: 6% 12%;
+	font-family: 'Poppins', sans-serif;
+}
+.business{
+	font-size: 45px;
+	padding: 5% 0%;
+}
+.sec10div1{
+	background-color: rgba(239, 239, 239, 0.6);
+	display: flex;
+	justify-content: space-between;
+	padding: 7% 0% 8% 8%;
+}
+.accept{
+	font-size: 35px;
+	padding-top: 30%;
+}
+.grow{
+	font-size: 20px;
+	padding-top: 3%;
+}
+
+
+
+@media (max-width: 1366px){
+	.navigation a{
+		font-size: 14px;
+	}
+}
